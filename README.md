@@ -14,7 +14,7 @@
   </a>
 </div>
 
-# Tools and Technology
+ <h2 align="center"> Tech & Tools </h2>
  <div align="center">
    
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,4 +36,13 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
  </div>
+
+
+ <div align="center">
+  <h2> My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/navdeep1840/navdeep1840/blob/output/github-contribution-grid-snake.gif" />
+  
+  <br/><br/><br/>
+</div>
 
