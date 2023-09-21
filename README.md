@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=navdeep1840&show_icons=true&hide_border=true&theme=react" />
+  <img height="200" src="https://streak-stats.demolab.com?user=navdeep1840&theme=react" />
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeep1840&show_icons=true&theme=react&hide_border=true"/> 
    <br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeep1840&layout=compact&langs_count=8&card_width=320&theme=react&hide_border=true" />
