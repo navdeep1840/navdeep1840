@@ -1,10 +1,6 @@
 <!-- Intro -->
 <h1 align="center">Hey there 👋<br/>I'm <strong>Navdeep Singh</strong></h1>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+Next.js%2C+Supabase+%2C+AI+Projects;Crafting+beautiful+UIs+and+AI-driven+apps;Open+to+full-time+remote+roles+and+collabs" />
-</p>
 
 ---
 
@@ -15,8 +11,7 @@ I love working with **Next.js**, **Supabase**, and **ShadCN**, and I’m always 
 
 - 🎯 Building [UIQuest](https://uiquest.vercel.app) – a component bounty marketplace  
 - 🤖 Experimenting with AI tools and personal WhatsApp/Telegram assistant bots  
-- 🧠 Exploring personal knowledge management  
-- 🛠️ Always iterating and learning by doing
+
 
 ---
 
@@ -25,7 +20,7 @@ I love working with **Next.js**, **Supabase**, and **ShadCN**, and I’m always 
 - 🚀 **[Portfolio Website](https://navdeep.xyz)**
 - 🧾 [LinkedIn](https://linkedin.com/in/navdeep1840)
 - 🐦 [Twitter](https://twitter.com/navdeep1840)
-- 📫 navdeep@example.com *(replace with real email)*
+- 📫 navdeep3589@gmail.com 
 
 ---
 
@@ -75,11 +70,5 @@ I love working with **Next.js**, **Supabase**, and **ShadCN**, and I’m always 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navdeep1840&theme=tokyonight" width="450"/>
 </p>
 
----
 
-### 🧩 Fun Fact
-> I ship fast, learn faster, and build tools I actually use.
 
----
-
-**Let’s connect, build, and ship something awesome!**
