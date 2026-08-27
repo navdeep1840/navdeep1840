@@ -1,23 +1,13 @@
-<h1 align="center">Hi, I'm Navdeep Singh 👋</h1>
+# Good morning 💭
 
-<p align="center">
-  Frontend Developer | Open for Projects & Collaborations
-</p>
+My name is Navdeep Singh 🧑
 
----
+I am a developer 💻 from India 🇮🇳 who builds security tooling at [O3 Security](https://github.com/o3security) and drinks too much chai while doing it ☕
 
-### 🤝 Let's Connect
+[navdeep.xyz](https://navdeep.xyz)
 
-- 🌐 [Portfolio](https://navdeep.xyz)
-- 🐦 [Twitter](https://twitter.com/navdeep1840)
-- 💼 [LinkedIn](https://linkedin.com/in/navdeep1840)
-- 📫 navdeep3589@gmail.com
+## Elsewhere
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navdeep1840&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navdeep1840&theme=tokyonight" width="450"/>
-</p>
+- [Twitter](https://twitter.com/navdeep1840)
+- [LinkedIn](https://linkedin.com/in/navdeep1840)
+- navdeep3589@gmail.com
