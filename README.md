@@ -1,13 +1,10 @@
-# Good morning 💭
+### Navdeep Singh
 
-My name is Navdeep Singh 🧑
+I work on security tooling at [O3 Security](https://github.com/o3security) — static analysis,
+dependency and supply-chain scanning, SBOM tooling. Mostly Go, Python and TypeScript.
 
-I am a developer 💻 from India 🇮🇳 who builds security tooling at [O3 Security](https://github.com/o3security) and drinks too much chai while doing it ☕
+Off the clock it's Solana wallets and Next.js things that never quite ship.
 
-[navdeep.xyz](https://navdeep.xyz)
+Based in India 🇮🇳
 
-## Elsewhere
-
-- [Twitter](https://twitter.com/navdeep1840)
-- [LinkedIn](https://linkedin.com/in/navdeep1840)
-- navdeep3589@gmail.com
+[navdeep.xyz](https://navdeep.xyz)  ·  [Twitter](https://twitter.com/navdeep1840)  ·  [LinkedIn](https://linkedin.com/in/navdeep1840)  ·  [Email](mailto:navdeep3589@gmail.com)
