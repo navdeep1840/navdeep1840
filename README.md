@@ -5,3 +5,5 @@ Started with frontend, now working on security at [O3 Security](https://github.c
 Based in India 🇮🇳
 
 [navdeep.xyz](https://navdeep.xyz)  ·  [Twitter](https://twitter.com/navdeep1840)  ·  [LinkedIn](https://linkedin.com/in/navdeep1840)  ·  [Email](mailto:navdeep3589@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=navdeep1840&color=blue&style=flat-square&label=Profile+views)
